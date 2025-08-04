@@ -1,0 +1,73 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Nokia_0d53f5ca-28e8-4a5d-acf2-d0d88d26bbae.xml
+
+CERTIFICATE:
+  Serial Number: a2:68:68:51:fb:08:c4:cc:0b:fe:21:78:10:2d:b9:51
+  Issuer: title=TEE/serialNumber=2ccd81ea5677322c41370e5fa6d823f3
+  Not Before: Jun 10 21:50:40 2020 GMT
+  Not After: Jun  8 21:50:40 2030 GMT
+  Subject: title=TEE/serialNumber=6ea9d3ebcc2a4e4a9268ea976046b114
+  Public Key Algorithm: id-ecPublicKey
+  FE:A9:CA:D5:AD:EB:51:CF:52:73:84:EC:EA:93:17:57:FB:08:27:19
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: bd:25:97:1a:1e:d1:8f:a2:13:85:65:8e:9e:f0:72:05
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jun 10 21:48:46 2020 GMT
+  Not After: Jun  8 21:48:46 2030 GMT
+  Subject: title=TEE/serialNumber=2ccd81ea5677322c41370e5fa6d823f3
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 47:1c:7d:f9:9c:f5:20:e0:73:a3:f3:ab:e4:89:90:bb
+  Issuer: title=TEE/serialNumber=2ccd81ea5677322c41370e5fa6d823f3
+  Not Before: Jun 10 21:50:39 2020 GMT
+  Not After: Jun  8 21:50:39 2030 GMT
+  Subject: title=TEE/serialNumber=6ea9d3ebcc2a4e4a9268ea976046b114
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: b7:c5:0d:8f:62:d2:f8:90:f5:7e:f8:a4:a7:29:3a:be
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jun 10 21:48:28 2020 GMT
+  Not After: Jun  8 21:48:28 2030 GMT
+  Subject: title=TEE/serialNumber=2ccd81ea5677322c41370e5fa6d823f3
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+a2686851fb08c4cc0bfe2178102db951
+bd25971a1ed18fa21385658e9ef07205
+d50ff25ba3f2d6b3
+471c7df99cf520e073a3f3abe48990bb
+b7c50d8f62d2f890f57ef8a4a7293abe
+d50ff25ba3f2d6b3
+
+!!! Certificate 1 is revoked - SERIAL NUMBER: a2686851fb08c4cc0bfe2178102db951
+!!! Certificate 4 is revoked - SERIAL NUMBER: 471c7df99cf520e073a3f3abe48990bb
+
+-- KeyBox valid since Jun 10 21:50:40 2020
+-- KeyBox valid until Jun  8 21:48:46 2030
+-- KeyBox has not expired
+!!! KeyBox is REVOKED
+

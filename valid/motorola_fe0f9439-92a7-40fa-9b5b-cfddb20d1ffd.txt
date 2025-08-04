@@ -1,0 +1,72 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/motorola_fe0f9439-92a7-40fa-9b5b-cfddb20d1ffd.xml
+
+CERTIFICATE:
+  Serial Number: 01:65:70:09:71:94:60:70:60:03
+  Issuer: serialNumber=2b35cbd52031e5ed/title=TEE
+  Not Before: Sep 27 17:00:29 2019 GMT
+  Not After: Sep 24 17:00:29 2029 GMT
+  Subject: serialNumber=5c677c1872684615/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:f6
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Sep 27 16:58:39 2019 GMT
+  Not After: Sep 24 16:58:39 2029 GMT
+  Subject: serialNumber=2b35cbd52031e5ed/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 14:62:92:35:45:08:08:82:29:95
+  Issuer: serialNumber=2b35cbd52031e5ed/title=TEE
+  Not Before: Sep 27 17:00:17 2019 GMT
+  Not After: Sep 24 17:00:17 2029 GMT
+  Subject: serialNumber=5c677c1872684615/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:f5
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Sep 27 16:57:40 2019 GMT
+  Not After: Sep 24 16:57:40 2029 GMT
+  Subject: serialNumber=2b35cbd52031e5ed/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+1657009719460706003
+38826676065899685f6
+e8fa196314d2fa18
+14629235450808822995
+38826676065899685f5
+e8fa196314d2fa18
+
+!!! Certificate 1 is revoked - SERIAL NUMBER: 1657009719460706003
+!!! Certificate 4 is revoked - SERIAL NUMBER: 14629235450808822995
+
+-- KeyBox valid since Sep 27 17:00:29 2019
+-- KeyBox valid until Sep 24 16:58:39 2029
+-- KeyBox has not expired
+!!! KeyBox is REVOKED
+

@@ -1,0 +1,72 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Nokia_ae4f783f-d9b8-48db-9644-f7ac58860fbb.xml
+
+CERTIFICATE:
+  Serial Number: 12:72:78:82:76:92:21:52:11:91
+  Issuer: serialNumber=fb1c10799855be1d/title=TEE
+  Not Before: Apr 18 19:51:08 2018 GMT
+  Not After: Apr 15 19:51:08 2028 GMT
+  Subject: serialNumber=e9ceb4b7f9878d87/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:8d
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Apr 18 19:31:24 2018 GMT
+  Not After: Apr 15 19:31:24 2028 GMT
+  Subject: serialNumber=fb1c10799855be1d/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 16:86:79:76:18:82:50:03:85:76
+  Issuer: serialNumber=fb1c10799855be1d/title=TEE
+  Not Before: Apr 18 19:50:56 2018 GMT
+  Not After: Apr 15 19:50:56 2028 GMT
+  Subject: serialNumber=e9ceb4b7f9878d87/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:8c
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Apr 18 19:31:07 2018 GMT
+  Not After: Apr 15 19:31:07 2028 GMT
+  Subject: serialNumber=fb1c10799855be1d/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+12727882769221521191
+388266760658996858d
+e8fa196314d2fa18
+16867976188250038576
+388266760658996858c
+e8fa196314d2fa18
+
+!!! Certificate 1 is revoked - SERIAL NUMBER: 12727882769221521191
+!!! Certificate 4 is revoked - SERIAL NUMBER: 16867976188250038576
+
+-- KeyBox valid since Apr 18 19:51:08 2018
+-- KeyBox valid until Apr 15 19:31:24 2028
+-- KeyBox has not expired
+!!! KeyBox is REVOKED
+

@@ -1,0 +1,69 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Oukitel_36fe0e39-e172-4d88-b82a-ea11b401f03d.xml
+
+CERTIFICATE:
+  Serial Number: 2c:7e:7b:84:0a:b9:68:3f:7a:e7:82:fd:93:3a:7d:4a
+  Issuer: title=TEE/serialNumber=c0a96551153f4f42ae820c1ee676d75f
+  Not Before: Oct 16 23:44:02 2023 GMT
+  Not After: Oct 13 23:44:02 2033 GMT
+  Subject: title=TEE/serialNumber=c28883a8f3abb57b8d31d30e3cb0ba6d
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: a7:53:a0:61:8a:2b:8c:be:09:04:ae:d1:73:4d:96:a9
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Oct 16 23:42:06 2023 GMT
+  Not After: Oct 13 23:42:06 2033 GMT
+  Subject: title=TEE/serialNumber=c0a96551153f4f42ae820c1ee676d75f
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: f1:c1:72:a6:99:ea:f5:1d
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Mar 20 18:07:48 2022 GMT
+  Not After: Mar 15 18:07:48 2042 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: b7:13:86:86:84:25:a2:3a:0a:e4:ad:94:71:ba:5e:bb
+  Issuer: title=TEE/serialNumber=c0a96551153f4f42ae820c1ee676d75f
+  Not Before: Oct 16 23:44:02 2023 GMT
+  Not After: Oct 13 23:44:02 2033 GMT
+  Subject: title=TEE/serialNumber=c28883a8f3abb57b8d31d30e3cb0ba6d
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: c9:61:4d:a9:62:10:0a:6d:50:f4:a0:19:b8:f4:59:62
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Oct 16 23:41:49 2023 GMT
+  Not After: Oct 13 23:41:49 2033 GMT
+  Subject: title=TEE/serialNumber=c0a96551153f4f42ae820c1ee676d75f
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: f1:c1:72:a6:99:ea:f5:1d
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Mar 20 18:07:48 2022 GMT
+  Not After: Mar 15 18:07:48 2042 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+2c7e7b840ab9683f7ae782fd933a7d4a
+a753a0618a2b8cbe0904aed1734d96a9
+f1c172a699eaf51d
+b71386868425a23a0ae4ad9471ba5ebb
+c9614da962100a6d50f4a019b8f45962
+f1c172a699eaf51d
+
+-- KeyBox valid since Oct 16 23:44:02 2023
+-- KeyBox valid until Oct 13 23:42:06 2033
+-- KeyBox has not expired
+-- KeyBox is not revoked
+
