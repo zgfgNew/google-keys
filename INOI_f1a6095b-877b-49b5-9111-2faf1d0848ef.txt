@@ -1,0 +1,69 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/INOI_f1a6095b-877b-49b5-9111-2faf1d0848ef.xml
+
+CERTIFICATE:
+  Serial Number: 03:18:64:22:41:14:96:79:24:63
+  Issuer: serialNumber=2c924cddf5ccc0d5/title=TEE
+  Not Before: Jul 23 19:53:00 2018 GMT
+  Not After: Jul 20 19:53:00 2028 GMT
+  Subject: serialNumber=99d253357b8ff993/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:9a
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jul 23 19:32:57 2018 GMT
+  Not After: Jul 20 19:32:57 2028 GMT
+  Subject: serialNumber=2c924cddf5ccc0d5/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 08:19:58:74:36:55:87:44:69:35
+  Issuer: serialNumber=2c924cddf5ccc0d5/title=TEE
+  Not Before: Jul 23 19:52:48 2018 GMT
+  Not After: Jul 20 19:52:48 2028 GMT
+  Subject: serialNumber=99d253357b8ff993/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:99
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jul 23 19:32:26 2018 GMT
+  Not After: Jul 20 19:32:26 2028 GMT
+  Subject: serialNumber=2c924cddf5ccc0d5/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+3186422411496792463
+388266760658996859a
+e8fa196314d2fa18
+8195874365587446935
+3882667606589968599
+e8fa196314d2fa18
+
+-- KeyBox valid since Jul 23 19:53:00 2018
+-- KeyBox valid until Jul 20 19:32:57 2028
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

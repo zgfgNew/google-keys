@@ -1,0 +1,69 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Leagoo_7fa3e4d1-953e-48ed-a4fe-7d7b6dd39871.xml
+
+CERTIFICATE:
+  Serial Number: 09:27:23:90:01:18:86:65:60:89
+  Issuer: serialNumber=be406466bea3782b
+  Not Before: May 26 17:28:36 2016 GMT
+  Not After: May 24 17:28:36 2026 GMT
+  Subject: serialNumber=1c135b1b637908fa
+  Public Key Algorithm: id-ecPublicKey
+  CA:FALSE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:77
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 17:22:19 2016 GMT
+  Not After: May 24 17:22:19 2026 GMT
+  Subject: serialNumber=be406466bea3782b
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 09:38:89:06:92:06:78:65:46:36
+  Issuer: serialNumber=be406466bea3782b
+  Not Before: May 26 17:28:24 2016 GMT
+  Not After: May 24 17:28:24 2026 GMT
+  Subject: serialNumber=1c135b1b637908fa
+  Public Key Algorithm: rsaEncryption
+  CA:FALSE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:76
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 17:22:01 2016 GMT
+  Not After: May 24 17:22:01 2026 GMT
+  Subject: serialNumber=be406466bea3782b
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+9272390011886656089
+3882667606589968577
+e8fa196314d2fa18
+9388906920678654636
+3882667606589968576
+e8fa196314d2fa18
+
+-- KeyBox valid since May 26 17:28:36 2016
+-- KeyBox valid until May 24 17:22:19 2026
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

@@ -1,0 +1,69 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Lava_20c23dc1-ae97-405a-a698-98c2cf1d7c76.xml
+
+CERTIFICATE:
+  Serial Number: 9f:01:3b:b1:fa:32:22:81:6a:74:b0:ce:6c:d0:76:b8
+  Issuer: title=TEE/serialNumber=9fa0a14e4336cd9ff84b45ad57d2f4a5
+  Not Before: Jul 12 21:25:03 2024 GMT
+  Not After: Jul 10 21:25:03 2034 GMT
+  Subject: title=TEE/serialNumber=3162b7eab9c1bb8a2945a091bd49f575
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 7a:f3:1d:89:19:29:63:e6:b5:ef:0c:05:8e:13:4e:f7
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jul 12 21:24:39 2024 GMT
+  Not After: Jul 10 21:24:39 2034 GMT
+  Subject: title=TEE/serialNumber=9fa0a14e4336cd9ff84b45ad57d2f4a5
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: f1:c1:72:a6:99:ea:f5:1d
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Mar 20 18:07:48 2022 GMT
+  Not After: Mar 15 18:07:48 2042 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d1:8d:ff:f3:5d:1a:c3:89:d5:15:03:c2:1a:87:68:cb
+  Issuer: title=TEE/serialNumber=9fa0a14e4336cd9ff84b45ad57d2f4a5
+  Not Before: Jul 12 21:25:03 2024 GMT
+  Not After: Jul 10 21:25:03 2034 GMT
+  Subject: title=TEE/serialNumber=3162b7eab9c1bb8a2945a091bd49f575
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 05:af:3e:bb:36:28:1d:96:39:11:e8:7b:99:2f:9f:f8
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jul 12 21:24:22 2024 GMT
+  Not After: Jul 10 21:24:22 2034 GMT
+  Subject: title=TEE/serialNumber=9fa0a14e4336cd9ff84b45ad57d2f4a5
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: f1:c1:72:a6:99:ea:f5:1d
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Mar 20 18:07:48 2022 GMT
+  Not After: Mar 15 18:07:48 2042 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+9f013bb1fa3222816a74b0ce6cd076b8
+7af31d89192963e6b5ef0c058e134ef7
+f1c172a699eaf51d
+d18dfff35d1ac389d51503c21a8768cb
+5af3ebb36281d963911e87b992f9ff8
+f1c172a699eaf51d
+
+-- KeyBox valid since Jul 12 21:25:03 2024
+-- KeyBox valid until Jul 10 21:24:39 2034
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

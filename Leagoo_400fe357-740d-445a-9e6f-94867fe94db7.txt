@@ -1,0 +1,69 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Leagoo_400fe357-740d-445a-9e6f-94867fe94db7.xml
+
+CERTIFICATE:
+  Serial Number: 15:94:12:00:54:43:19:96:09:43
+  Issuer: serialNumber=87f4514475ba0a2b
+  Not Before: May 26 17:13:42 2016 GMT
+  Not After: May 24 17:13:42 2026 GMT
+  Subject: serialNumber=b12da06c163bedd4
+  Public Key Algorithm: id-ecPublicKey
+  CA:FALSE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:75
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 17:01:51 2016 GMT
+  Not After: May 24 17:01:51 2026 GMT
+  Subject: serialNumber=87f4514475ba0a2b
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 13:44:19:72:79:45:92:34:29:63
+  Issuer: serialNumber=87f4514475ba0a2b
+  Not Before: May 26 17:13:28 2016 GMT
+  Not After: May 24 17:13:28 2026 GMT
+  Subject: serialNumber=b12da06c163bedd4
+  Public Key Algorithm: rsaEncryption
+  CA:FALSE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:74
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 17:01:32 2016 GMT
+  Not After: May 24 17:01:32 2026 GMT
+  Subject: serialNumber=87f4514475ba0a2b
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+15941200544319960943
+3882667606589968575
+e8fa196314d2fa18
+13441972794592342963
+3882667606589968574
+e8fa196314d2fa18
+
+-- KeyBox valid since May 26 17:13:42 2016
+-- KeyBox valid until May 24 17:01:51 2026
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

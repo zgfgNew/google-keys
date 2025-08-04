@@ -1,0 +1,69 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Lanix_00954963-a973-41b9-a9b0-f74e30df9f31.xml
+
+CERTIFICATE:
+  Serial Number: 03:71:67:12:19:93:82:67:21:20
+  Issuer: serialNumber=be406466bea3782b
+  Not Before: May 26 17:23:22 2016 GMT
+  Not After: May 24 17:23:22 2026 GMT
+  Subject: serialNumber=4917a3f1bc9c605b
+  Public Key Algorithm: id-ecPublicKey
+  CA:FALSE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:77
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 17:22:19 2016 GMT
+  Not After: May 24 17:22:19 2026 GMT
+  Subject: serialNumber=be406466bea3782b
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 02:21:70:36:29:35:00:85:93:12
+  Issuer: serialNumber=be406466bea3782b
+  Not Before: May 26 17:23:10 2016 GMT
+  Not After: May 24 17:23:10 2026 GMT
+  Subject: serialNumber=4917a3f1bc9c605b
+  Public Key Algorithm: rsaEncryption
+  CA:FALSE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:76
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 17:22:01 2016 GMT
+  Not After: May 24 17:22:01 2026 GMT
+  Subject: serialNumber=be406466bea3782b
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+3716712199382672120
+3882667606589968577
+e8fa196314d2fa18
+2217036293500859312
+3882667606589968576
+e8fa196314d2fa18
+
+-- KeyBox valid since May 26 17:23:22 2016
+-- KeyBox valid until May 24 17:22:19 2026
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

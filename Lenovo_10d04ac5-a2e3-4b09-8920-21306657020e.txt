@@ -1,0 +1,70 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Lenovo_10d04ac5-a2e3-4b09-8920-21306657020e.xml
+
+CERTIFICATE:
+  Serial Number: 05:23:99:59:16:78:56:61:17:06
+  Issuer: serialNumber=5b0359cca8879cb5
+  Not Before: May 26 16:54:37 2016 GMT
+  Not After: May 24 16:54:37 2026 GMT
+  Subject: serialNumber=36a45ad041a6de15
+  Public Key Algorithm: id-ecPublicKey
+  AA:58:CD:C7:F6:7A:B1:D1:58:A3:84:DE:EC:60:78:F0:CA:B9:8A:5E
+  CA:FALSE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:73
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:41:29 2016 GMT
+  Not After: May 24 16:41:29 2026 GMT
+  Subject: serialNumber=5b0359cca8879cb5
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 14:08:91:90:84:64:22:47:87:51
+  Issuer: serialNumber=5b0359cca8879cb5
+  Not Before: May 26 16:54:25 2016 GMT
+  Not After: May 24 16:54:25 2026 GMT
+  Subject: serialNumber=36a45ad041a6de15
+  Public Key Algorithm: rsaEncryption
+  CA:FALSE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:72
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:41:11 2016 GMT
+  Not After: May 24 16:41:11 2026 GMT
+  Subject: serialNumber=5b0359cca8879cb5
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+5239959167856611706
+3882667606589968573
+e8fa196314d2fa18
+14089190846422478751
+3882667606589968572
+e8fa196314d2fa18
+
+-- KeyBox valid since May 26 16:54:37 2016
+-- KeyBox valid until May 24 16:41:29 2026
+-- KeyBox has not expired
+-- KeyBox is not revoked
+
