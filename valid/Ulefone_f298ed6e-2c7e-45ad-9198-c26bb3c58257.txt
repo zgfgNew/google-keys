@@ -1,0 +1,70 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Ulefone_f298ed6e-2c7e-45ad-9198-c26bb3c58257.xml
+
+CERTIFICATE:
+  Serial Number: bf:35:c1:27:bc:5c:22:6b:70:14:f3:cb:b4:8c:d0:d3
+  Issuer: title=TEE/serialNumber=4e411c14e62fd3b276e0111898911f96
+  Not Before: Nov 17 22:51:04 2021 GMT
+  Not After: Nov 15 22:51:04 2031 GMT
+  Subject: title=TEE/serialNumber=870a0f57a10438650b830c2b75c2b0aa
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: b2:43:ab:9e:86:6a:70:a1:15:02:e5:c5:c3:23:3e:76
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 17 22:48:54 2021 GMT
+  Not After: Nov 15 22:48:54 2031 GMT
+  Subject: title=TEE/serialNumber=4e411c14e62fd3b276e0111898911f96
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 73:04:35:a6:9b:b9:a8:f1:37:c6:8d:bc:3b:cc:6f:51
+  Issuer: title=TEE/serialNumber=4e411c14e62fd3b276e0111898911f96
+  Not Before: Nov 17 22:51:04 2021 GMT
+  Not After: Nov 15 22:51:04 2031 GMT
+  Subject: title=TEE/serialNumber=870a0f57a10438650b830c2b75c2b0aa
+  Public Key Algorithm: rsaEncryption
+  2C:37:AF:EF:F2:0B:BB:17:F4:6E:7E:C8:31:C4:26:4B:BF:CA:54:D3
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 2d:de:9c:26:69:44:5f:78:f2:0e:c8:ec:bf:8b:1d:31
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 17 22:48:36 2021 GMT
+  Not After: Nov 15 22:48:36 2031 GMT
+  Subject: title=TEE/serialNumber=4e411c14e62fd3b276e0111898911f96
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+bf35c127bc5c226b7014f3cbb48cd0d3
+b243ab9e866a70a11502e5c5c3233e76
+d50ff25ba3f2d6b3
+730435a69bb9a8f137c68dbc3bcc6f51
+2dde9c2669445f78f20ec8ecbf8b1d31
+d50ff25ba3f2d6b3
+
+-- KeyBox valid since Nov 17 22:51:04 2021
+-- KeyBox valid until Nov 15 22:48:54 2031
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

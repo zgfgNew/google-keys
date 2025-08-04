@@ -1,0 +1,69 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Umidigi_c92f2327-2c86-492d-8248-4810d2be5de8.xml
+
+CERTIFICATE:
+  Serial Number: da:f6:ff:6b:0b:34:b7:de:4a:da:a1:e1:70:e3:d9:9b
+  Issuer: title=TEE/serialNumber=5dec90d15e89ccd49d57bcbe08b461c7
+  Not Before: Jan  7 20:42:02 2020 GMT
+  Not After: Jan  4 20:42:02 2030 GMT
+  Subject: title=TEE/serialNumber=5a6bccfe371e50feb8ee9e9d9894b117
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: b2:82:96:53:a2:d6:88:c7:81:c3:10:dd:54:4f:ca:29
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jan  7 20:39:46 2020 GMT
+  Not After: Jan  4 20:39:46 2030 GMT
+  Subject: title=TEE/serialNumber=5dec90d15e89ccd49d57bcbe08b461c7
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: fd:66:ec:70:71:b2:0a:d6:ee:00:62:ca:31:24:0f:41
+  Issuer: title=TEE/serialNumber=5dec90d15e89ccd49d57bcbe08b461c7
+  Not Before: Jan  7 20:42:01 2020 GMT
+  Not After: Jan  4 20:42:01 2030 GMT
+  Subject: title=TEE/serialNumber=5a6bccfe371e50feb8ee9e9d9894b117
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 37:1d:13:c5:b6:21:de:be:6c:9f:92:6c:30:18:34:ec
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jan  7 20:39:16 2020 GMT
+  Not After: Jan  4 20:39:16 2030 GMT
+  Subject: title=TEE/serialNumber=5dec90d15e89ccd49d57bcbe08b461c7
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+daf6ff6b0b34b7de4adaa1e170e3d99b
+b2829653a2d688c781c310dd544fca29
+d50ff25ba3f2d6b3
+fd66ec7071b20ad6ee0062ca31240f41
+371d13c5b621debe6c9f926c301834ec
+d50ff25ba3f2d6b3
+
+-- KeyBox valid since Jan  7 20:42:02 2020
+-- KeyBox valid until Jan  4 20:39:46 2030
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

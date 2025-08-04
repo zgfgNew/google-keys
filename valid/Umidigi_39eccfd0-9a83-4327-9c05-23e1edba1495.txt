@@ -1,0 +1,70 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Umidigi_39eccfd0-9a83-4327-9c05-23e1edba1495.xml
+
+CERTIFICATE:
+  Serial Number: 16:76:43:02:29:67:90:79:32:88
+  Issuer: serialNumber=8d818b3444f12fa3/title=TEE
+  Not Before: Nov 12 00:54:20 2019 GMT
+  Not After: Nov  9 00:54:20 2029 GMT
+  Subject: serialNumber=302703be5ebea511/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  51:F0:AA:66:85:1B:B3:5C:CA:C2:64:FD:DD:BF:65:A7:FF:1E:F0:82
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:f8
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 12 00:35:30 2019 GMT
+  Not After: Nov  9 00:35:30 2029 GMT
+  Subject: serialNumber=8d818b3444f12fa3/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 15:54:33:33:16:98:67:67:97:75
+  Issuer: serialNumber=8d818b3444f12fa3/title=TEE
+  Not Before: Nov 12 00:54:08 2019 GMT
+  Not After: Nov  9 00:54:08 2029 GMT
+  Subject: serialNumber=302703be5ebea511/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:f7
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 12 00:35:11 2019 GMT
+  Not After: Nov  9 00:35:11 2029 GMT
+  Subject: serialNumber=8d818b3444f12fa3/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+16764302296790793288
+38826676065899685f8
+e8fa196314d2fa18
+15543333169867679775
+38826676065899685f7
+e8fa196314d2fa18
+
+-- KeyBox valid since Nov 12 00:54:20 2019
+-- KeyBox valid until Nov  9 00:35:30 2029
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

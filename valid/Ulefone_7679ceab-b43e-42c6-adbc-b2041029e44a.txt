@@ -1,0 +1,72 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Ulefone_7679ceab-b43e-42c6-adbc-b2041029e44a.xml
+
+CERTIFICATE:
+  Serial Number: 8c:7f:8e:3a:77:7c:2c:85:1b:29:00:50:53:f6:b3:7d
+  Issuer: title=TEE/serialNumber=8c2b75a5edfd302d68686a799f75a26f
+  Not Before: Jan  7 20:45:09 2020 GMT
+  Not After: Jan  4 20:45:09 2030 GMT
+  Subject: title=TEE/serialNumber=a302eddcfd8272a63bf76338f687d8ac
+  Public Key Algorithm: id-ecPublicKey
+  keyid:1A:69:5E:06:26:DD:27:53:D6:9D:27:3B:17:55:CA:24:40:FA:DB:DB
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 47:73:1e:86:e4:cf:ec:d8:38:cb:1c:9d:75:99:9a:0f
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jan  7 20:43:27 2020 GMT
+  Not After: Jan  4 20:43:27 2030 GMT
+  Subject: title=TEE/serialNumber=8c2b75a5edfd302d68686a799f75a26f
+  Public Key Algorithm: id-ecPublicKey
+  1A:69:5E:06:26:DD:27:53:D6:9D:27:3B:17:55:CA:24:40:FA:DB:DB
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e9:87:4a:8c:82:f9:df:ef:ff:65:35:f5:9a:3a:6a:a1
+  Issuer: title=TEE/serialNumber=8c2b75a5edfd302d68686a799f75a26f
+  Not Before: Jan  7 20:45:09 2020 GMT
+  Not After: Jan  4 20:45:09 2030 GMT
+  Subject: title=TEE/serialNumber=a302eddcfd8272a63bf76338f687d8ac
+  Public Key Algorithm: rsaEncryption
+  C3:DF:74:21:96:3F:10:82:AF:A2:B0:03:76:11:D8:66:7F:CA:6D:50
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 40:18:86:e6:7e:1f:2b:d8:8a:98:90:f3:e2:32:68:77
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jan  7 20:43:09 2020 GMT
+  Not After: Jan  4 20:43:09 2030 GMT
+  Subject: title=TEE/serialNumber=8c2b75a5edfd302d68686a799f75a26f
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+8c7f8e3a777c2c851b29005053f6b37d
+47731e86e4cfecd838cb1c9d75999a0f
+d50ff25ba3f2d6b3
+e9874a8c82f9dfefff6535f59a3a6aa1
+401886e67e1f2bd88a9890f3e2326877
+d50ff25ba3f2d6b3
+
+-- KeyBox valid since Jan  7 20:45:09 2020
+-- KeyBox valid until Jan  4 20:43:27 2030
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

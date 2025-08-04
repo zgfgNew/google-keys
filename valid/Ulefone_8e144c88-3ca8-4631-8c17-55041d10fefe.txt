@@ -1,0 +1,71 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Ulefone_8e144c88-3ca8-4631-8c17-55041d10fefe.xml
+
+CERTIFICATE:
+  Serial Number: 76:05:c8:67:c4:b2:46:02:48:12:87:69:8d:6a:57:b5
+  Issuer: title=TEE/serialNumber=8c2b75a5edfd302d68686a799f75a26f
+  Not Before: Jan  7 20:45:57 2020 GMT
+  Not After: Jan  4 20:45:57 2030 GMT
+  Subject: title=TEE/serialNumber=fb124d7d7a1b36bccd9e0ba1c8b625a7
+  Public Key Algorithm: id-ecPublicKey
+  keyid:1A:69:5E:06:26:DD:27:53:D6:9D:27:3B:17:55:CA:24:40:FA:DB:DB
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 47:73:1e:86:e4:cf:ec:d8:38:cb:1c:9d:75:99:9a:0f
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jan  7 20:43:27 2020 GMT
+  Not After: Jan  4 20:43:27 2030 GMT
+  Subject: title=TEE/serialNumber=8c2b75a5edfd302d68686a799f75a26f
+  Public Key Algorithm: id-ecPublicKey
+  1A:69:5E:06:26:DD:27:53:D6:9D:27:3B:17:55:CA:24:40:FA:DB:DB
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 61:6c:34:cf:db:31:42:66:c3:73:3e:fd:b7:74:0c:0c
+  Issuer: title=TEE/serialNumber=8c2b75a5edfd302d68686a799f75a26f
+  Not Before: Jan  7 20:45:57 2020 GMT
+  Not After: Jan  4 20:45:57 2030 GMT
+  Subject: title=TEE/serialNumber=fb124d7d7a1b36bccd9e0ba1c8b625a7
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 40:18:86:e6:7e:1f:2b:d8:8a:98:90:f3:e2:32:68:77
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jan  7 20:43:09 2020 GMT
+  Not After: Jan  4 20:43:09 2030 GMT
+  Subject: title=TEE/serialNumber=8c2b75a5edfd302d68686a799f75a26f
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+7605c867c4b24602481287698d6a57b5
+47731e86e4cfecd838cb1c9d75999a0f
+d50ff25ba3f2d6b3
+616c34cfdb314266c3733efdb7740c0c
+401886e67e1f2bd88a9890f3e2326877
+d50ff25ba3f2d6b3
+
+-- KeyBox valid since Jan  7 20:45:57 2020
+-- KeyBox valid until Jan  4 20:43:27 2030
+-- KeyBox has not expired
+-- KeyBox is not revoked
+
