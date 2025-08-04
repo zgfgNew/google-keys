@@ -1,0 +1,69 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/iPRO_cd3a203f-ab0e-4513-9046-118c928aabc3.xml
+
+CERTIFICATE:
+  Serial Number: 12:92:94:80:69:71:75:24:58:48
+  Issuer: serialNumber=fb1c10799855be1d/title=TEE
+  Not Before: Apr 18 19:41:02 2018 GMT
+  Not After: Apr 15 19:41:02 2028 GMT
+  Subject: serialNumber=f8b67849991bf615/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:8d
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Apr 18 19:31:24 2018 GMT
+  Not After: Apr 15 19:31:24 2028 GMT
+  Subject: serialNumber=fb1c10799855be1d/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 05:95:80:74:54:64:31:61:78:78
+  Issuer: serialNumber=fb1c10799855be1d/title=TEE
+  Not Before: Apr 18 19:40:50 2018 GMT
+  Not After: Apr 15 19:40:50 2028 GMT
+  Subject: serialNumber=f8b67849991bf615/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:8c
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Apr 18 19:31:07 2018 GMT
+  Not After: Apr 15 19:31:07 2028 GMT
+  Subject: serialNumber=fb1c10799855be1d/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+12929480697175245848
+388266760658996858d
+e8fa196314d2fa18
+5958074546431617878
+388266760658996858c
+e8fa196314d2fa18
+
+-- KeyBox valid since Apr 18 19:41:02 2018
+-- KeyBox valid until Apr 15 19:31:24 2028
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

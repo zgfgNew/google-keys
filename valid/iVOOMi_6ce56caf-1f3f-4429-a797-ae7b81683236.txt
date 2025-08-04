@@ -1,0 +1,69 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/iVOOMi_6ce56caf-1f3f-4429-a797-ae7b81683236.xml
+
+CERTIFICATE:
+  Serial Number: 09:26:77:80:29:56:97:82:32:34
+  Issuer: serialNumber=be406466bea3782b
+  Not Before: May 26 17:29:32 2016 GMT
+  Not After: May 24 17:29:32 2026 GMT
+  Subject: serialNumber=d1e5057a8ea52e03
+  Public Key Algorithm: id-ecPublicKey
+  CA:FALSE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:77
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 17:22:19 2016 GMT
+  Not After: May 24 17:22:19 2026 GMT
+  Subject: serialNumber=be406466bea3782b
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 14:93:95:97:91:10:01:24:05:00
+  Issuer: serialNumber=be406466bea3782b
+  Not Before: May 26 17:29:20 2016 GMT
+  Not After: May 24 17:29:20 2026 GMT
+  Subject: serialNumber=d1e5057a8ea52e03
+  Public Key Algorithm: rsaEncryption
+  CA:FALSE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:76
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 17:22:01 2016 GMT
+  Not After: May 24 17:22:01 2026 GMT
+  Subject: serialNumber=be406466bea3782b
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+9267780295697823234
+3882667606589968577
+e8fa196314d2fa18
+14939597911001240500
+3882667606589968576
+e8fa196314d2fa18
+
+-- KeyBox valid since May 26 17:29:32 2016
+-- KeyBox valid until May 24 17:22:19 2026
+-- KeyBox has not expired
+-- KeyBox is not revoked
+
