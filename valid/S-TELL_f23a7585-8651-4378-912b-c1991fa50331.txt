@@ -1,0 +1,69 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/S-TELL_f23a7585-8651-4378-912b-c1991fa50331.xml
+
+CERTIFICATE:
+  Serial Number: 08:11:00:90:76:25:08:49:05:92
+  Issuer: serialNumber=a1d6688008751119/title=TEE
+  Not Before: Apr 18 22:55:15 2018 GMT
+  Not After: Apr 15 22:55:15 2028 GMT
+  Subject: serialNumber=c6efce4adefb73f6/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:95
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Apr 18 22:41:56 2018 GMT
+  Not After: Apr 15 22:41:56 2028 GMT
+  Subject: serialNumber=a1d6688008751119/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 14:28:68:25:10:20:22:47:28:74
+  Issuer: serialNumber=a1d6688008751119/title=TEE
+  Not Before: Apr 18 22:55:04 2018 GMT
+  Not After: Apr 15 22:55:04 2028 GMT
+  Subject: serialNumber=c6efce4adefb73f6/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:94
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Apr 18 22:41:38 2018 GMT
+  Not After: Apr 15 22:41:38 2028 GMT
+  Subject: serialNumber=a1d6688008751119/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+8110090762508490592
+3882667606589968595
+e8fa196314d2fa18
+14286825102022472874
+3882667606589968594
+e8fa196314d2fa18
+
+-- KeyBox valid since Apr 18 22:55:15 2018
+-- KeyBox valid until Apr 15 22:41:56 2028
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

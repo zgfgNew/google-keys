@@ -1,0 +1,71 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Symphony_ef7b2029-fa85-4f13-a576-4c42b1e18cb3.xml
+
+CERTIFICATE:
+  Serial Number: b8:df:5c:00:73:e9:cc:93:08:50:bf:7c:17:5a:d6:fc
+  Issuer: title=TEE/serialNumber=70912df46104faae947864e5804f1f8d
+  Not Before: Sep 28 20:26:47 2020 GMT
+  Not After: Sep 26 20:26:47 2030 GMT
+  Subject: title=TEE/serialNumber=5b09989e9a818fb2a0d00b61ba271fc9
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 35:30:17:e7:3d:c2:05:a7:3a:9c:3d:e1:42:23:03:70
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Sep 28 20:25:02 2020 GMT
+  Not After: Sep 26 20:25:02 2030 GMT
+  Subject: title=TEE/serialNumber=70912df46104faae947864e5804f1f8d
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 8d:17:db:32:38:c1:1b:79:af:36:d5:0e:5c:7e:9f:85
+  Issuer: title=TEE/serialNumber=70912df46104faae947864e5804f1f8d
+  Not Before: Sep 28 20:26:47 2020 GMT
+  Not After: Sep 26 20:26:47 2030 GMT
+  Subject: title=TEE/serialNumber=5b09989e9a818fb2a0d00b61ba271fc9
+  Public Key Algorithm: rsaEncryption
+  keyid:B2:56:E3:E7:04:88:9F:AF:4B:05:3F:CA:D5:00:1A:92:06:CB:0E:74
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 87:9d:5b:dc:87:ef:df:86:33:62:da:64:a1:97:ca:3f
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Sep 28 20:24:45 2020 GMT
+  Not After: Sep 26 20:24:45 2030 GMT
+  Subject: title=TEE/serialNumber=70912df46104faae947864e5804f1f8d
+  Public Key Algorithm: rsaEncryption
+  B2:56:E3:E7:04:88:9F:AF:4B:05:3F:CA:D5:00:1A:92:06:CB:0E:74
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+b8df5c0073e9cc930850bf7c175ad6fc
+353017e73dc205a73a9c3de142230370
+d50ff25ba3f2d6b3
+8d17db3238c11b79af36d50e5c7e9f85
+879d5bdc87efdf863362da64a197ca3f
+d50ff25ba3f2d6b3
+
+-- KeyBox valid since Sep 28 20:26:47 2020
+-- KeyBox valid until Sep 26 20:25:02 2030
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

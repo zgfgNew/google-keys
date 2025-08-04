@@ -1,0 +1,70 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Teracube_eb5fa5d5-407b-4fb1-80b4-365ab341d1e9.xml
+
+CERTIFICATE:
+  Serial Number: f1:8b:3c:4d:d8:21:bb:10:ac:f9:70:0f:7f:17:e8:ac
+  Issuer: title=TEE/serialNumber=e0c3548a47e73f2a75fb9ed6da5bf3e8
+  Not Before: Sep 28 20:18:13 2020 GMT
+  Not After: Sep 26 20:18:13 2030 GMT
+  Subject: title=TEE/serialNumber=e02304fe7908d313bdb192f0e3d8b418
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 16:4f:f1:6d:b3:8a:d3:3d:19:04:5f:7d:c3:0c:7f:cc
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Sep 28 20:17:49 2020 GMT
+  Not After: Sep 26 20:17:49 2030 GMT
+  Subject: title=TEE/serialNumber=e0c3548a47e73f2a75fb9ed6da5bf3e8
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: c5:a6:84:fa:3d:00:ef:37:e0:92:77:2c:0a:c9:cd:96
+  Issuer: title=TEE/serialNumber=e0c3548a47e73f2a75fb9ed6da5bf3e8
+  Not Before: Sep 28 20:18:13 2020 GMT
+  Not After: Sep 26 20:18:13 2030 GMT
+  Subject: title=TEE/serialNumber=e02304fe7908d313bdb192f0e3d8b418
+  Public Key Algorithm: rsaEncryption
+  60:B1:4C:CA:55:97:1D:64:CF:1E:D3:44:EC:8A:D8:81:2D:60:09:0B
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 62:d4:37:7c:c7:13:7a:1c:89:97:18:c5:0f:e0:54:14
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Sep 28 20:16:50 2020 GMT
+  Not After: Sep 26 20:16:50 2030 GMT
+  Subject: title=TEE/serialNumber=e0c3548a47e73f2a75fb9ed6da5bf3e8
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+f18b3c4dd821bb10acf9700f7f17e8ac
+164ff16db38ad33d19045f7dc30c7fcc
+d50ff25ba3f2d6b3
+c5a684fa3d00ef37e092772c0ac9cd96
+62d4377cc7137a1c899718c50fe05414
+d50ff25ba3f2d6b3
+
+-- KeyBox valid since Sep 28 20:18:13 2020
+-- KeyBox valid until Sep 26 20:17:49 2030
+-- KeyBox has not expired
+-- KeyBox is not revoked
+
