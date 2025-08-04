@@ -1,0 +1,70 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Bluedigit_17b25b66-8723-49a3-99eb-efbf4fbe7905.xml
+
+CERTIFICATE:
+  Serial Number: 16:17:75:01:59:20:08:49:14:98
+  Issuer: serialNumber=a1d6688008751119/title=TEE
+  Not Before: Apr 18 22:57:12 2018 GMT
+  Not After: Apr 15 22:57:12 2028 GMT
+  Subject: serialNumber=cd8259fd1b4b1424/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  11:72:CA:BA:B9:3B:F1:5A:F7:4D:72:00:E4:B4:0A:0F:75:E5:1B:A9
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:95
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Apr 18 22:41:56 2018 GMT
+  Not After: Apr 15 22:41:56 2028 GMT
+  Subject: serialNumber=a1d6688008751119/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 02:96:77:93:32:71:31:92:65:69
+  Issuer: serialNumber=a1d6688008751119/title=TEE
+  Not Before: Apr 18 22:57:00 2018 GMT
+  Not After: Apr 15 22:57:00 2028 GMT
+  Subject: serialNumber=cd8259fd1b4b1424/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:94
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Apr 18 22:41:38 2018 GMT
+  Not After: Apr 15 22:41:38 2028 GMT
+  Subject: serialNumber=a1d6688008751119/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+16177501592008491498
+3882667606589968595
+e8fa196314d2fa18
+2967793327131926569
+3882667606589968594
+e8fa196314d2fa18
+
+-- KeyBox valid since Apr 18 22:57:12 2018
+-- KeyBox valid until Apr 15 22:41:56 2028
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

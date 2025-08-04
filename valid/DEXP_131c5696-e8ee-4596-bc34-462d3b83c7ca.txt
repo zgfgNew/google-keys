@@ -1,0 +1,70 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/DEXP_131c5696-e8ee-4596-bc34-462d3b83c7ca.xml
+
+CERTIFICATE:
+  Serial Number: 13:44:96:35:f3:09:5c:c0:a7:49:1b:ca:a1:1c:9e:b5
+  Issuer: title=TEE/serialNumber=5f571cf658e887adb89ed2fc03fd66d8
+  Not Before: Nov 11 23:51:55 2019 GMT
+  Not After: Nov  8 23:51:55 2029 GMT
+  Subject: title=TEE/serialNumber=2598d724ae3ec0c41c026d3b1597f5ae
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: a7:bd:b8:b4:07:c3:c6:51:db:b1:9d:61:e0:be:7f:17
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 11 23:49:12 2019 GMT
+  Not After: Nov  8 23:49:12 2029 GMT
+  Subject: title=TEE/serialNumber=5f571cf658e887adb89ed2fc03fd66d8
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 96:15:ed:19:ad:88:8a:de:8a:80:8f:43:84:b5:eb:10
+  Issuer: title=TEE/serialNumber=5f571cf658e887adb89ed2fc03fd66d8
+  Not Before: Nov 11 23:51:55 2019 GMT
+  Not After: Nov  8 23:51:55 2029 GMT
+  Subject: title=TEE/serialNumber=2598d724ae3ec0c41c026d3b1597f5ae
+  Public Key Algorithm: rsaEncryption
+  E4:2F:C0:EB:D3:33:87:83:EB:AB:F0:F3:14:CA:69:1D:46:1D:54:18
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 34:93:d4:9d:c6:85:0c:8f:d2:8c:67:36:89:70:23:dd
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 11 23:48:55 2019 GMT
+  Not After: Nov  8 23:48:55 2029 GMT
+  Subject: title=TEE/serialNumber=5f571cf658e887adb89ed2fc03fd66d8
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+13449635f3095cc0a7491bcaa11c9eb5
+a7bdb8b407c3c651dbb19d61e0be7f17
+e8fa196314d2fa18
+9615ed19ad888ade8a808f4384b5eb10
+3493d49dc6850c8fd28c6736897023dd
+e8fa196314d2fa18
+
+-- KeyBox valid since Nov 11 23:51:55 2019
+-- KeyBox valid until Nov  8 23:49:12 2029
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

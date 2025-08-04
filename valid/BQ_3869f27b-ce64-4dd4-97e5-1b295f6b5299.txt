@@ -1,0 +1,70 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/BQ_3869f27b-ce64-4dd4-97e5-1b295f6b5299.xml
+
+CERTIFICATE:
+  Serial Number: 29:7a:0c:96:bc:43:c4:9b:06:a6:25:04:97:3a:f8:4c
+  Issuer: title=TEE/serialNumber=025d17bbe2b758a5407babf1d3b5b047
+  Not Before: Apr 28 18:49:19 2020 GMT
+  Not After: Apr 26 18:49:19 2030 GMT
+  Subject: title=TEE/serialNumber=ba2e738201187ea734325f5090bc6b5b
+  Public Key Algorithm: id-ecPublicKey
+  36:56:83:CA:7A:08:A7:F4:0D:9E:87:B9:7C:A0:A5:04:17:51:81:4A
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 7d:51:57:cc:da:fa:b6:c8:40:e6:3b:be:45:40:ca:25
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Apr 28 18:47:40 2020 GMT
+  Not After: Apr 26 18:47:40 2030 GMT
+  Subject: title=TEE/serialNumber=025d17bbe2b758a5407babf1d3b5b047
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: bc:76:38:62:1c:79:2e:3a:cf:d5:7e:a7:a2:ce:9e:61
+  Issuer: title=TEE/serialNumber=025d17bbe2b758a5407babf1d3b5b047
+  Not Before: Apr 28 18:49:19 2020 GMT
+  Not After: Apr 26 18:49:19 2030 GMT
+  Subject: title=TEE/serialNumber=ba2e738201187ea734325f5090bc6b5b
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 36:66:a2:79:c1:4c:7e:7c:32:66:b1:2d:63:09:f2:c3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Apr 28 18:47:11 2020 GMT
+  Not After: Apr 26 18:47:11 2030 GMT
+  Subject: title=TEE/serialNumber=025d17bbe2b758a5407babf1d3b5b047
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+297a0c96bc43c49b06a62504973af84c
+7d5157ccdafab6c840e63bbe4540ca25
+d50ff25ba3f2d6b3
+bc7638621c792e3acfd57ea7a2ce9e61
+3666a279c14c7e7c3266b12d6309f2c3
+d50ff25ba3f2d6b3
+
+-- KeyBox valid since Apr 28 18:49:19 2020
+-- KeyBox valid until Apr 26 18:47:40 2030
+-- KeyBox has not expired
+-- KeyBox is not revoked
+
