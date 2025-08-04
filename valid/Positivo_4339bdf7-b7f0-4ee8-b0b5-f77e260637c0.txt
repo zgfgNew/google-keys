@@ -1,0 +1,69 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Positivo_4339bdf7-b7f0-4ee8-b0b5-f77e260637c0.xml
+
+CERTIFICATE:
+  Serial Number: de:35:a8:af:b6:bf:ee:a1:bd:c5:b6:fe:49:05:98:13
+  Issuer: title=TEE/serialNumber=e0c3548a47e73f2a75fb9ed6da5bf3e8
+  Not Before: Sep 28 20:20:33 2020 GMT
+  Not After: Sep 26 20:20:33 2030 GMT
+  Subject: title=TEE/serialNumber=78103c4041b5d009dfca4c115b0e5e53
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 16:4f:f1:6d:b3:8a:d3:3d:19:04:5f:7d:c3:0c:7f:cc
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Sep 28 20:17:49 2020 GMT
+  Not After: Sep 26 20:17:49 2030 GMT
+  Subject: title=TEE/serialNumber=e0c3548a47e73f2a75fb9ed6da5bf3e8
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: c7:33:bd:46:92:eb:fa:ab:9e:e2:e1:57:c0:ff:0d:c8
+  Issuer: title=TEE/serialNumber=e0c3548a47e73f2a75fb9ed6da5bf3e8
+  Not Before: Sep 28 20:20:33 2020 GMT
+  Not After: Sep 26 20:20:33 2030 GMT
+  Subject: title=TEE/serialNumber=78103c4041b5d009dfca4c115b0e5e53
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 62:d4:37:7c:c7:13:7a:1c:89:97:18:c5:0f:e0:54:14
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Sep 28 20:16:50 2020 GMT
+  Not After: Sep 26 20:16:50 2030 GMT
+  Subject: title=TEE/serialNumber=e0c3548a47e73f2a75fb9ed6da5bf3e8
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+de35a8afb6bfeea1bdc5b6fe49059813
+164ff16db38ad33d19045f7dc30c7fcc
+d50ff25ba3f2d6b3
+c733bd4692ebfaab9ee2e157c0ff0dc8
+62d4377cc7137a1c899718c50fe05414
+d50ff25ba3f2d6b3
+
+-- KeyBox valid since Sep 28 20:20:33 2020
+-- KeyBox valid until Sep 26 20:17:49 2030
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

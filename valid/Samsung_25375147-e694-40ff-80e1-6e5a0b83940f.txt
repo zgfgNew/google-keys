@@ -1,0 +1,72 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Samsung_25375147-e694-40ff-80e1-6e5a0b83940f.xml
+
+CERTIFICATE:
+  Serial Number: ac:6f:3c:ca:b9:18:03:ff:27:d7:fb:0f:2c:27:eb:73
+  Issuer: title=TEE/serialNumber=70912df46104faae947864e5804f1f8d
+  Not Before: Sep 28 20:27:03 2020 GMT
+  Not After: Sep 26 20:27:03 2030 GMT
+  Subject: title=TEE/serialNumber=4e4aa5c94190a87cf063e30db29f6f66
+  Public Key Algorithm: id-ecPublicKey
+  6B:D5:59:42:55:09:7F:9C:FB:C6:EB:58:6D:CA:89:AC:4D:FF:01:7C
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 35:30:17:e7:3d:c2:05:a7:3a:9c:3d:e1:42:23:03:70
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Sep 28 20:25:02 2020 GMT
+  Not After: Sep 26 20:25:02 2030 GMT
+  Subject: title=TEE/serialNumber=70912df46104faae947864e5804f1f8d
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 4f:12:a3:c4:34:51:1a:c5:c7:72:c8:a0:68:60:53:94
+  Issuer: title=TEE/serialNumber=70912df46104faae947864e5804f1f8d
+  Not Before: Sep 28 20:27:03 2020 GMT
+  Not After: Sep 26 20:27:03 2030 GMT
+  Subject: title=TEE/serialNumber=4e4aa5c94190a87cf063e30db29f6f66
+  Public Key Algorithm: rsaEncryption
+  keyid:B2:56:E3:E7:04:88:9F:AF:4B:05:3F:CA:D5:00:1A:92:06:CB:0E:74
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 87:9d:5b:dc:87:ef:df:86:33:62:da:64:a1:97:ca:3f
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Sep 28 20:24:45 2020 GMT
+  Not After: Sep 26 20:24:45 2030 GMT
+  Subject: title=TEE/serialNumber=70912df46104faae947864e5804f1f8d
+  Public Key Algorithm: rsaEncryption
+  B2:56:E3:E7:04:88:9F:AF:4B:05:3F:CA:D5:00:1A:92:06:CB:0E:74
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+ac6f3ccab91803ff27d7fb0f2c27eb73
+353017e73dc205a73a9c3de142230370
+d50ff25ba3f2d6b3
+4f12a3c434511ac5c772c8a068605394
+879d5bdc87efdf863362da64a197ca3f
+d50ff25ba3f2d6b3
+
+-- KeyBox valid since Sep 28 20:27:03 2020
+-- KeyBox valid until Sep 26 20:25:02 2030
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

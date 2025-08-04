@@ -1,0 +1,69 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Samsung_a91166ea-0807-4df6-880c-b9588d266edc.xml
+
+CERTIFICATE:
+  Serial Number: df:63:0d:73:6c:4b:cf:e1:00:52:ed:49:71:fc:67:c2
+  Issuer: title=TEE/serialNumber=4e411c14e62fd3b276e0111898911f96
+  Not Before: Nov 17 22:50:23 2021 GMT
+  Not After: Nov 15 22:50:23 2031 GMT
+  Subject: title=TEE/serialNumber=8cf1414da133684659ce67f2f2a01b93
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: b2:43:ab:9e:86:6a:70:a1:15:02:e5:c5:c3:23:3e:76
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 17 22:48:54 2021 GMT
+  Not After: Nov 15 22:48:54 2031 GMT
+  Subject: title=TEE/serialNumber=4e411c14e62fd3b276e0111898911f96
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: fe:29:ff:26:82:01:c6:9a:d7:f5:15:ae:90:85:f9:02
+  Issuer: title=TEE/serialNumber=4e411c14e62fd3b276e0111898911f96
+  Not Before: Nov 17 22:50:23 2021 GMT
+  Not After: Nov 15 22:50:23 2031 GMT
+  Subject: title=TEE/serialNumber=8cf1414da133684659ce67f2f2a01b93
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 2d:de:9c:26:69:44:5f:78:f2:0e:c8:ec:bf:8b:1d:31
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 17 22:48:36 2021 GMT
+  Not After: Nov 15 22:48:36 2031 GMT
+  Subject: title=TEE/serialNumber=4e411c14e62fd3b276e0111898911f96
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+df630d736c4bcfe10052ed4971fc67c2
+b243ab9e866a70a11502e5c5c3233e76
+d50ff25ba3f2d6b3
+fe29ff268201c69ad7f515ae9085f902
+2dde9c2669445f78f20ec8ecbf8b1d31
+d50ff25ba3f2d6b3
+
+-- KeyBox valid since Nov 17 22:50:23 2021
+-- KeyBox valid until Nov 15 22:48:54 2031
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

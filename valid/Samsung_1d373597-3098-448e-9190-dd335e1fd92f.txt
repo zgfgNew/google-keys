@@ -1,0 +1,70 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Samsung_1d373597-3098-448e-9190-dd335e1fd92f.xml
+
+CERTIFICATE:
+  Serial Number: 30:26:ca:29:14:66:11:61:7e:05:e3:21:60:0a:af:3f
+  Issuer: title=TEE/serialNumber=5dec90d15e89ccd49d57bcbe08b461c7
+  Not Before: Jan  7 20:42:16 2020 GMT
+  Not After: Jan  4 20:42:16 2030 GMT
+  Subject: title=TEE/serialNumber=88c135a427ab0b0aed702b58d7b4ec39
+  Public Key Algorithm: id-ecPublicKey
+  19:86:C5:CA:1E:44:E7:75:C3:89:C7:D3:E4:B7:44:C8:EC:DA:42:5A
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: b2:82:96:53:a2:d6:88:c7:81:c3:10:dd:54:4f:ca:29
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jan  7 20:39:46 2020 GMT
+  Not After: Jan  4 20:39:46 2030 GMT
+  Subject: title=TEE/serialNumber=5dec90d15e89ccd49d57bcbe08b461c7
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: dd:39:94:60:60:6e:cf:b4:9b:d2:9f:68:75:e1:bf:f9
+  Issuer: title=TEE/serialNumber=5dec90d15e89ccd49d57bcbe08b461c7
+  Not Before: Jan  7 20:42:15 2020 GMT
+  Not After: Jan  4 20:42:15 2030 GMT
+  Subject: title=TEE/serialNumber=88c135a427ab0b0aed702b58d7b4ec39
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 37:1d:13:c5:b6:21:de:be:6c:9f:92:6c:30:18:34:ec
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jan  7 20:39:16 2020 GMT
+  Not After: Jan  4 20:39:16 2030 GMT
+  Subject: title=TEE/serialNumber=5dec90d15e89ccd49d57bcbe08b461c7
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+3026ca29146611617e05e321600aaf3f
+b2829653a2d688c781c310dd544fca29
+d50ff25ba3f2d6b3
+dd399460606ecfb49bd29f6875e1bff9
+371d13c5b621debe6c9f926c301834ec
+d50ff25ba3f2d6b3
+
+-- KeyBox valid since Jan  7 20:42:16 2020
+-- KeyBox valid until Jan  4 20:39:46 2030
+-- KeyBox has not expired
+-- KeyBox is not revoked
+
