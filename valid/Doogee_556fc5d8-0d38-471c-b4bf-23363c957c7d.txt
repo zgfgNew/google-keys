@@ -1,0 +1,69 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Doogee_556fc5d8-0d38-471c-b4bf-23363c957c7d.xml
+
+CERTIFICATE:
+  Serial Number: ee:dd:35:0c:1c:34:5c:c7:a3:3a:6f:b3:c8:43:43:4b
+  Issuer: title=TEE/serialNumber=b68b0660e88d96af9e5cab4c334d4423
+  Not Before: Mar 20 19:19:05 2022 GMT
+  Not After: Mar 17 19:19:05 2032 GMT
+  Subject: title=TEE/serialNumber=fd833ef89e2fc0caac98f03957976fa3
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: a7:61:d0:fd:10:a1:16:44:68:7e:81:0d:8f:ae:06:aa
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Mar 20 19:15:44 2022 GMT
+  Not After: Mar 17 19:15:44 2032 GMT
+  Subject: title=TEE/serialNumber=b68b0660e88d96af9e5cab4c334d4423
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: f1:c1:72:a6:99:ea:f5:1d
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Mar 20 18:07:48 2022 GMT
+  Not After: Mar 15 18:07:48 2042 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: a9:ae:e7:97:3c:3d:c9:23:7b:24:60:53:59:56:f7:f7
+  Issuer: title=TEE/serialNumber=b68b0660e88d96af9e5cab4c334d4423
+  Not Before: Mar 20 19:19:04 2022 GMT
+  Not After: Mar 17 19:19:04 2032 GMT
+  Subject: title=TEE/serialNumber=fd833ef89e2fc0caac98f03957976fa3
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 1a:dc:77:0f:8d:a7:ba:51:ac:80:a6:0b:cd:2f:17:e9
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Mar 20 19:15:26 2022 GMT
+  Not After: Mar 17 19:15:26 2032 GMT
+  Subject: title=TEE/serialNumber=b68b0660e88d96af9e5cab4c334d4423
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: f1:c1:72:a6:99:ea:f5:1d
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Mar 20 18:07:48 2022 GMT
+  Not After: Mar 15 18:07:48 2042 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+eedd350c1c345cc7a33a6fb3c843434b
+a761d0fd10a11644687e810d8fae06aa
+f1c172a699eaf51d
+a9aee7973c3dc9237b2460535956f7f7
+1adc770f8da7ba51ac80a60bcd2f17e9
+f1c172a699eaf51d
+
+-- KeyBox valid since Mar 20 19:19:05 2022
+-- KeyBox valid until Mar 17 19:15:44 2032
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

@@ -1,0 +1,71 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Doogee_e78c0a32-6041-4a12-87f7-ec708c4dfd3b.xml
+
+CERTIFICATE:
+  Serial Number: 13:10:46:29:85:43:99:99:70:16
+  Issuer: serialNumber=e18c4f2ca699739a/title=TEE
+  Not Before: Jul 23 20:33:28 2018 GMT
+  Not After: Jul 20 20:33:28 2028 GMT
+  Subject: serialNumber=178081aa40985224/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:9e
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jul 23 20:13:42 2018 GMT
+  Not After: Jul 20 20:13:42 2028 GMT
+  Subject: serialNumber=e18c4f2ca699739a/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 13:74:29:07:87:33:69:81:44:42
+  Issuer: serialNumber=e18c4f2ca699739a/title=TEE
+  Not Before: Jul 23 20:33:17 2018 GMT
+  Not After: Jul 20 20:33:17 2028 GMT
+  Subject: serialNumber=178081aa40985224/title=TEE
+  Public Key Algorithm: rsaEncryption
+  keyid:5E:EE:A0:F4:5C:DE:AC:A8:37:EC:B6:94:2C:F7:EF:13:4E:13:CA:9E
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:9d
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jul 23 20:13:24 2018 GMT
+  Not After: Jul 20 20:13:24 2028 GMT
+  Subject: serialNumber=e18c4f2ca699739a/title=TEE
+  Public Key Algorithm: rsaEncryption
+  5E:EE:A0:F4:5C:DE:AC:A8:37:EC:B6:94:2C:F7:EF:13:4E:13:CA:9E
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+13104629854399997016
+388266760658996859e
+e8fa196314d2fa18
+13742907873369814442
+388266760658996859d
+e8fa196314d2fa18
+
+-- KeyBox valid since Jul 23 20:33:28 2018
+-- KeyBox valid until Jul 20 20:13:42 2028
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

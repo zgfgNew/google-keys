@@ -1,0 +1,70 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Doogee_59ddca38-a37c-4cb6-bcb4-f1eea7d874d2.xml
+
+CERTIFICATE:
+  Serial Number: cc:46:10:d8:38:58:75:3b:03:7c:80:14:00:f5:15:e9
+  Issuer: title=TEE/serialNumber=4268f4066025a5763bdd2dd6983933aa
+  Not Before: Jun 16 19:18:04 2021 GMT
+  Not After: Jun 14 19:18:04 2031 GMT
+  Subject: title=TEE/serialNumber=eb0e243f520c87dc562b0f2c310358cc
+  Public Key Algorithm: id-ecPublicKey
+  C4:8E:3B:D5:7F:B6:C5:B3:EA:F9:3F:4A:3F:22:72:87:59:CA:E1:E4
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: ca:e4:3c:cd:6b:2b:17:c6:8a:f4:1c:88:9b:23:61:34
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jun 16 19:15:03 2021 GMT
+  Not After: Jun 14 19:15:03 2031 GMT
+  Subject: title=TEE/serialNumber=4268f4066025a5763bdd2dd6983933aa
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 57:1a:af:ec:5d:68:d1:dd:bf:88:de:a0:3e:e1:e9:77
+  Issuer: title=TEE/serialNumber=4268f4066025a5763bdd2dd6983933aa
+  Not Before: Jun 16 19:18:04 2021 GMT
+  Not After: Jun 14 19:18:04 2031 GMT
+  Subject: title=TEE/serialNumber=eb0e243f520c87dc562b0f2c310358cc
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 79:4d:47:71:09:15:b7:04:8a:43:82:92:2a:b5:09:76
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jun 16 19:14:46 2021 GMT
+  Not After: Jun 14 19:14:46 2031 GMT
+  Subject: title=TEE/serialNumber=4268f4066025a5763bdd2dd6983933aa
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: d5:0f:f2:5b:a3:f2:d6:b3
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Nov 22 20:37:58 2019 GMT
+  Not After: Nov 18 20:37:58 2034 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+cc4610d83858753b037c801400f515e9
+cae43ccd6b2b17c68af41c889b236134
+d50ff25ba3f2d6b3
+571aafec5d68d1ddbf88dea03ee1e977
+794d47710915b7048a4382922ab50976
+d50ff25ba3f2d6b3
+
+-- KeyBox valid since Jun 16 19:18:04 2021
+-- KeyBox valid until Jun 14 19:15:03 2031
+-- KeyBox has not expired
+-- KeyBox is not revoked
+
