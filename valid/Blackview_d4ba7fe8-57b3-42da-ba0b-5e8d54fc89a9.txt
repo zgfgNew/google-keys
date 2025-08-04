@@ -1,0 +1,69 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Blackview_d4ba7fe8-57b3-42da-ba0b-5e8d54fc89a9.xml
+
+CERTIFICATE:
+  Serial Number: 09:78:93:76:58:39:19:18:24:96
+  Issuer: serialNumber=c2173f073548b928/title=TEE
+  Not Before: Apr 18 21:13:28 2018 GMT
+  Not After: Apr 15 21:13:28 2028 GMT
+  Subject: serialNumber=ee2b77c9a36a76a3/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:8f
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Apr 18 20:54:36 2018 GMT
+  Not After: Apr 15 20:54:36 2028 GMT
+  Subject: serialNumber=c2173f073548b928/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 06:43:18:61:22:43:50:82:24:17
+  Issuer: serialNumber=c2173f073548b928/title=TEE
+  Not Before: Apr 18 21:13:15 2018 GMT
+  Not After: Apr 15 21:13:15 2028 GMT
+  Subject: serialNumber=ee2b77c9a36a76a3/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:8e
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Apr 18 20:54:18 2018 GMT
+  Not After: Apr 15 20:54:18 2028 GMT
+  Subject: serialNumber=c2173f073548b928/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+9789376583919182496
+388266760658996858f
+e8fa196314d2fa18
+6431861224350822417
+388266760658996858e
+e8fa196314d2fa18
+
+-- KeyBox valid since Apr 18 21:13:28 2018
+-- KeyBox valid until Apr 15 20:54:36 2028
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

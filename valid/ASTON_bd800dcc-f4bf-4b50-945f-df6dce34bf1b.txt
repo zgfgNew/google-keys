@@ -1,0 +1,70 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/ASTON_bd800dcc-f4bf-4b50-945f-df6dce34bf1b.xml
+
+CERTIFICATE:
+  Serial Number: 12:41:28:61:31:22:83:37:76:20
+  Issuer: serialNumber=a1d6688008751119/title=TEE
+  Not Before: Apr 18 22:57:11 2018 GMT
+  Not After: Apr 15 22:57:11 2028 GMT
+  Subject: serialNumber=45ab442359fd9863/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:95
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Apr 18 22:41:56 2018 GMT
+  Not After: Apr 15 22:41:56 2028 GMT
+  Subject: serialNumber=a1d6688008751119/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 07:86:94:83:65:01:16:67:40:81
+  Issuer: serialNumber=a1d6688008751119/title=TEE
+  Not Before: Apr 18 22:56:58 2018 GMT
+  Not After: Apr 15 22:56:58 2028 GMT
+  Subject: serialNumber=45ab442359fd9863/title=TEE
+  Public Key Algorithm: rsaEncryption
+  A4:A5:BA:ED:AE:F3:74:D5:05:B5:BC:99:E2:59:3F:1F:67:CA:E3:46
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:94
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Apr 18 22:41:38 2018 GMT
+  Not After: Apr 15 22:41:38 2028 GMT
+  Subject: serialNumber=a1d6688008751119/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+12412861312283377620
+3882667606589968595
+e8fa196314d2fa18
+7869483650116674081
+3882667606589968594
+e8fa196314d2fa18
+
+-- KeyBox valid since Apr 18 22:57:11 2018
+-- KeyBox valid until Apr 15 22:41:56 2028
+-- KeyBox has not expired
+-- KeyBox is not revoked
+
