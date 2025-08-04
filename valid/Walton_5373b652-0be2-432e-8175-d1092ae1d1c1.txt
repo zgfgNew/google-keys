@@ -1,0 +1,71 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Walton_5373b652-0be2-432e-8175-d1092ae1d1c1.xml
+
+CERTIFICATE:
+  Serial Number: 01:65:38:31:82:83:91:70:34:19
+  Issuer: serialNumber=e18c4f2ca699739a/title=TEE
+  Not Before: Jul 23 20:30:27 2018 GMT
+  Not After: Jul 20 20:30:27 2028 GMT
+  Subject: serialNumber=aa04baf7451c79e3/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:9e
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jul 23 20:13:42 2018 GMT
+  Not After: Jul 20 20:13:42 2028 GMT
+  Subject: serialNumber=e18c4f2ca699739a/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 08:07:21:93:17:09:30:51:93:41
+  Issuer: serialNumber=e18c4f2ca699739a/title=TEE
+  Not Before: Jul 23 20:30:14 2018 GMT
+  Not After: Jul 20 20:30:14 2028 GMT
+  Subject: serialNumber=aa04baf7451c79e3/title=TEE
+  Public Key Algorithm: rsaEncryption
+  keyid:5E:EE:A0:F4:5C:DE:AC:A8:37:EC:B6:94:2C:F7:EF:13:4E:13:CA:9E
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:9d
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jul 23 20:13:24 2018 GMT
+  Not After: Jul 20 20:13:24 2028 GMT
+  Subject: serialNumber=e18c4f2ca699739a/title=TEE
+  Public Key Algorithm: rsaEncryption
+  5E:EE:A0:F4:5C:DE:AC:A8:37:EC:B6:94:2C:F7:EF:13:4E:13:CA:9E
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+1653831828391703419
+388266760658996859e
+e8fa196314d2fa18
+8072193170930519341
+388266760658996859d
+e8fa196314d2fa18
+
+-- KeyBox valid since Jul 23 20:30:27 2018
+-- KeyBox valid until Jul 20 20:13:42 2028
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

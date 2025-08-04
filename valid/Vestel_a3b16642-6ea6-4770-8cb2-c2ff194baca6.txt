@@ -1,0 +1,69 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Vestel_a3b16642-6ea6-4770-8cb2-c2ff194baca6.xml
+
+CERTIFICATE:
+  Serial Number: 02:85:49:10:30:92:30:61:60:64
+  Issuer: serialNumber=add9e18be16f85c9/title=TEE
+  Not Before: Jun 13 19:18:43 2019 GMT
+  Not After: Jun 10 19:18:43 2029 GMT
+  Subject: serialNumber=398d2944139415c5/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:e0
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jun 13 19:04:57 2019 GMT
+  Not After: Jun 10 19:04:57 2029 GMT
+  Subject: serialNumber=add9e18be16f85c9/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:10:36:15:01:31:96:46:19:30
+  Issuer: serialNumber=add9e18be16f85c9/title=TEE
+  Not Before: Jun 13 19:18:29 2019 GMT
+  Not After: Jun 10 19:18:29 2029 GMT
+  Subject: serialNumber=398d2944139415c5/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:df
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jun 13 19:04:40 2019 GMT
+  Not After: Jun 10 19:04:40 2029 GMT
+  Subject: serialNumber=add9e18be16f85c9/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+2854910309230616064
+38826676065899685e0
+e8fa196314d2fa18
+3103615013196461930
+38826676065899685df
+e8fa196314d2fa18
+
+-- KeyBox valid since Jun 13 19:18:43 2019
+-- KeyBox valid until Jun 10 19:04:57 2029
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

@@ -1,0 +1,70 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Vestel_3a571c08-df2b-4d18-9992-e46d0648fd8d.xml
+
+CERTIFICATE:
+  Serial Number: 06:20:57:14:68:91:81:82:56:10
+  Issuer: serialNumber=1df4e06a6c42f651/title=TEE
+  Not Before: Apr 19 20:51:31 2019 GMT
+  Not After: Apr 16 20:51:31 2029 GMT
+  Subject: serialNumber=077770a3caa49204/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  AA:C1:F5:48:31:9F:B7:D3:8D:CA:BF:2E:0B:7A:75:AF:70:D6:65:46
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:da
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Apr 19 20:35:19 2019 GMT
+  Not After: Apr 16 20:35:19 2029 GMT
+  Subject: serialNumber=1df4e06a6c42f651/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 12:73:82:28:67:82:81:82:77:30
+  Issuer: serialNumber=1df4e06a6c42f651/title=TEE
+  Not Before: Apr 19 20:51:19 2019 GMT
+  Not After: Apr 16 20:51:19 2029 GMT
+  Subject: serialNumber=077770a3caa49204/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:d9
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Apr 19 20:35:02 2019 GMT
+  Not After: Apr 16 20:35:02 2029 GMT
+  Subject: serialNumber=1df4e06a6c42f651/title=TEE
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+6205714689181825610
+38826676065899685da
+e8fa196314d2fa18
+12738228678281827730
+38826676065899685d9
+e8fa196314d2fa18
+
+-- KeyBox valid since Apr 19 20:51:31 2019
+-- KeyBox valid until Apr 16 20:35:19 2029
+-- KeyBox has not expired
+-- KeyBox is not revoked
+

@@ -1,0 +1,71 @@
+-- KeyBox file: /storage/emulated/0/PIF/KYC/valid/Vertex_c9708db6-cb54-4420-a92d-bb6f1104c0ad.xml
+
+CERTIFICATE:
+  Serial Number: 17:02:88:38:96:91:82:66:16:71
+  Issuer: serialNumber=e18c4f2ca699739a/title=TEE
+  Not Before: Jul 23 20:28:06 2018 GMT
+  Not After: Jul 20 20:28:06 2028 GMT
+  Subject: serialNumber=b5576d56b45c7d9f/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:9e
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jul 23 20:13:42 2018 GMT
+  Not After: Jul 20 20:13:42 2028 GMT
+  Subject: serialNumber=e18c4f2ca699739a/title=TEE
+  Public Key Algorithm: id-ecPublicKey
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 05:32:13:86:84:55:24:20:57:29
+  Issuer: serialNumber=e18c4f2ca699739a/title=TEE
+  Not Before: Jul 23 20:27:54 2018 GMT
+  Not After: Jul 20 20:27:54 2028 GMT
+  Subject: serialNumber=b5576d56b45c7d9f/title=TEE
+  Public Key Algorithm: rsaEncryption
+  keyid:5E:EE:A0:F4:5C:DE:AC:A8:37:EC:B6:94:2C:F7:EF:13:4E:13:CA:9E
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: 03:88:26:67:60:65:89:96:85:9d
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: Jul 23 20:13:24 2018 GMT
+  Not After: Jul 20 20:13:24 2028 GMT
+  Subject: serialNumber=e18c4f2ca699739a/title=TEE
+  Public Key Algorithm: rsaEncryption
+  5E:EE:A0:F4:5C:DE:AC:A8:37:EC:B6:94:2C:F7:EF:13:4E:13:CA:9E
+  CA:TRUE
+
+CERTIFICATE:
+  Serial Number: e8:fa:19:63:14:d2:fa:18
+  Issuer: serialNumber=f92009e853b6b045
+  Not Before: May 26 16:28:52 2016 GMT
+  Not After: May 24 16:28:52 2026 GMT
+  Subject: serialNumber=f92009e853b6b045
+  Public Key Algorithm: rsaEncryption
+  CA:TRUE
+
+Serial Numbers:
+17028838969182661671
+388266760658996859e
+e8fa196314d2fa18
+5321386845524205729
+388266760658996859d
+e8fa196314d2fa18
+
+-- KeyBox valid since Jul 23 20:28:06 2018
+-- KeyBox valid until Jul 20 20:13:42 2028
+-- KeyBox has not expired
+-- KeyBox is not revoked
+
